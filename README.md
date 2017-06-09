@@ -1,7 +1,7 @@
 # CLOUD-CONNECTED-SMART-WEARABLE-SYSTEM-Mobile-computing-and-IOT-
 
---The project aims at building a smart wearable system that takes inputs form the user smart phones over SAMB11 bluetooth connections and is connected to the cloud server via ESP8266 WiFi module.
-
---The device monitors the Heart rate, Body and atmospheric temperatures, atmospheric pressure and humidity. 
- 
---It displays critical data on the device LCD  screen while pushing all the data to the cloud server at the same time. 
+To develop a Cloud based Smart Wearable system to make the user more situationally
+aware while on outdoor trips. All the data (atmospheric temperature, humidity and
+pressure, heart rate and the body temperature ) is stored on the cloud so as to help him
+make better decisions about the location of such trips. Energy is conserved by giving
+the user the ability to turn the device on and off whenever needed.
